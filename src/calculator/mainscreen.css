@@ -1,0 +1,25 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+.mainFxmlClass {
+
+}
+.button
+{
+    -fx-pref-height: 30px;
+    -fx-pref-width: 200px;
+    -fx-font-size:10pt;
+    -fx-font-weight: bold;
+    -fx-text-fill:black; 
+    -fx-padding: 2px;
+    -fx-border-insets: 2px;
+    -fx-background-insets: 2px;
+}
+
+
+.AnchorPane
+{-fx-alignment: center ;
+ -fx-background-color: lightblue; 
+
+}

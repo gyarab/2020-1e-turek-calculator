@@ -1,0 +1,33 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+.mainFxmlClass {
+
+}
+
+
+.gridpane
+{
+
+    -fx-background-color: lightblue; 
+}
+
+
+.button { 
+    -fx-font-size:10pt;
+    -fx-font-weight: bold;
+    -fx-text-fill:black; 
+    -fx-padding: 2px;
+    -fx-border-insets: 2px;
+    -fx-background-insets: 2px;
+}
+.textField
+{
+    
+    -fx-font-size:10pt;
+    -fx-font-weight: bold;
+    -fx-text-fill:black; 
+    
+}
+

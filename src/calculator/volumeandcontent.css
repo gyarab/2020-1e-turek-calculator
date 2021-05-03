@@ -1,0 +1,55 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+.mainFxmlClass {
+
+}
+.textField
+{
+
+    -fx-display-caret: false;  
+    -fx-font-size:10pt;
+    -fx-font-weight: bold;
+    -fx-text-fill:black; 
+    -fx-padding: 5px;
+   
+}
+
+
+.button{
+    -fx-font-size:10pt;
+    -fx-font-weight: bold;
+    -fx-text-fill:black; 
+    -fx-padding: 2px;
+    -fx-border-insets: 2px;
+    -fx-background-insets: 2px;
+}
+.gridPane{
+
+    -fx-background-color: lightblue;       
+  
+}
+.lable
+{
+    -fx-font-size:10pt;
+    -fx-font-weight: bold;
+    -fx-text-fill:black; 
+    -fx-padding: 5px;
+    -fx-border-insets: 5px;
+    -fx-background-insets: 5px;
+}
+
+
+
+
+.combobox{
+    -fx-font-size:9pt;
+    -fx-font-weight: bold;
+    -fx-text-fill:black; 
+    -fx-pref-height: 20pt;
+}
+
+
+
+
